@@ -1,0 +1,6 @@
+{
+  "name": "tech item - Portfolio & Tech Services",
+  "description": "Modern portfolio, project showcase, customer feedback collection, admin control panel, and payment gateway for tech item.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
